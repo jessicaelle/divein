@@ -1,2 +1,2 @@
-# divein
-Dive-In Movies LP Build
+# Dive-In Movies LP
+Landing page for Dive-In Movies. 
